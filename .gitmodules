@@ -1,0 +1,6 @@
+[submodule "rtenv"]
+	path = rtenv
+	url = git@github.com:embedded2013/rtenv.git
+[submodule "freertos"]
+	path = freertos
+	url = git@github.com:embedded2013/freertos.git
